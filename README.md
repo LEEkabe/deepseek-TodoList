@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33731401/README.md)
 # 蓝色大肥鱼 TodoList
 
 Windows 桌面待办工具。**单文件 EXE，双击即用，不需要安装 Python / .NET / 任何依赖。**
